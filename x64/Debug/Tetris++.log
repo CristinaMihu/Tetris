@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1875,5): warning : The referenced project '..\Logger\Logger.vcxproj' does not exist.
+  BoardSFML.cpp
+  Game.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Game.cpp(168,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Game.cpp(273,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Game.cpp(432,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Game.cpp(162,11): warning C4101: 'random': unreferenced local variable
+  MultiPlayer.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(153,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(208,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(429,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(146,30): warning C4101: 'nextShapeAssigned': unreferenced local variable
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(146,11): warning C4101: 'nextColorAssigned': unreferenced local variable
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(146,49): warning C4101: 'nextRotationAssigned': unreferenced local variable
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(147,19): warning C4101: 'coordY': unreferenced local variable
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(148,11): warning C4101: 'random': unreferenced local variable
+C:\Users\hp\Desktop\girlspower\Tetris++\MultiPlayer.cpp(147,11): warning C4101: 'coordX': unreferenced local variable
+  Source.cpp
+  Generating Code...
+  Tetris++.vcxproj -> C:\Users\hp\Desktop\girlspower\x64\Debug\Tetris++.exe

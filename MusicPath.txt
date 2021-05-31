@@ -1,0 +1,8 @@
+../songs/sound.wav
+../songs/kick.wav
+../songs/bump.wav
+../songs/gameover.wav
+../songs/blackHole.wav
+../songs/vanish.wav
+../songs/jump.wav
+../songs/begin.wav

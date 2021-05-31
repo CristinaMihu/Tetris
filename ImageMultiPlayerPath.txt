@@ -1,0 +1,4 @@
+../images/PlayAgain.png
+../images/tetrisMare.png
+../images/gameOver.png
+../font/arial.ttf

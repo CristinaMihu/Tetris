@@ -1,0 +1,22 @@
+﻿  Game.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(30,50): warning C4042: 'unnamed-parameter': has bad storage class
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(219,1): error C2664: 'void BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine(std::array<std::array<uint16_t,10>,20> &,sf::Music &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,std::string)': cannot convert argument 3 from 'int' to 'uint16_t &'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\BoardSFML.h(18,7): message : see declaration of 'BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(262,1): error C2664: 'void BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine(std::array<std::array<uint16_t,10>,20> &,sf::Music &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,std::string)': cannot convert argument 3 from 'int' to 'uint16_t &'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\BoardSFML.h(18,7): message : see declaration of 'BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(332,1): error C2664: 'void BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine(std::array<std::array<uint16_t,10>,20> &,sf::Music &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,std::string)': cannot convert argument 3 from 'int' to 'uint16_t &'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\BoardSFML.h(18,7): message : see declaration of 'BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(383,1): error C2664: 'void BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine(std::array<std::array<uint16_t,10>,20> &,sf::Music &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,uint16_t &,std::string)': cannot convert argument 3 from 'int' to 'uint16_t &'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\BoardSFML.h(18,7): message : see declaration of 'BoardSFML<std::array<std::array<uint16_t,10>,20>>::ClearLine'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(403,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(416,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.cpp(625,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  MultiPlayer.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(30,50): warning C4042: 'unnamed-parameter': has bad storage class
+  Source.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(30,50): warning C4042: 'unnamed-parameter': has bad storage class
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Source.cpp(38,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Source.cpp(39,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Source.cpp(53,5): error C2039: 'GetMemberPlayAgain': is not a member of 'Game'
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\Game.h(7): message : see declaration of 'Game'
+  Generating Code...

@@ -1,0 +1,15 @@
+﻿  BlackHole.cpp
+  Board.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(27,50): warning C4042: 'unnamed-parameter': has bad storage class
+  Game.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(27,50): warning C4042: 'unnamed-parameter': has bad storage class
+  Piece.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(27,50): warning C4042: 'unnamed-parameter': has bad storage class
+  Score.cpp
+  PieceShape.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(27,50): warning C4042: 'unnamed-parameter': has bad storage class
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.cpp(12,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\Tetris++\PieceShape.h(27,50): warning C4042: 'unnamed-parameter': has bad storage class
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

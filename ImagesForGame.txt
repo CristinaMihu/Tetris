@@ -1,0 +1,2 @@
+../images/multitetris.png
+../images/singletetris.png

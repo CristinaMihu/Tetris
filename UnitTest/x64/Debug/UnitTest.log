@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1875,5): warning : The referenced project '..\Tetris++\Tetris++.vcxproj' does not exist.
+  PieceTests.cpp
+C:\Users\hp\Desktop\girlspower\Tetris++\UnitTest\PieceTests.cpp(33,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
